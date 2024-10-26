@@ -1,0 +1,13 @@
+<resources>
+    <color name="primary_color">#2196F3</color>
+    <color name="background_color">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+    <color name="control_normal">#BDBDBD</color>
+    <color name="control_highlight">#FFCDD2</color>
+
+    <color name="primary_color_dark">#3700B3</color>
+    <color name="background_color_dark">#121212</color>
+    <color name="text_color_dark">#FFFFFF</color>
+    <color name="control_normal_dark">#757575</color>
+    <color name="control_highlight_dark">#CF6679</color>
+</resources>
